@@ -1,0 +1,40 @@
+main {
+    background-color: lightblue;
+    color:grey
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 5px;
+}
+h2{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(135, 140, 180);
+    background-color: rgb(129, 204, 248);
+}
+.kartyak{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px
+}
+img { width: 100%;
+} 
+p{
+    font-size: 15px;
+    text-align: justify;
+}
+li{
+    color:rgb(1, 15, 214);
+    
+
+}
+a{
+    color:darkblue;
+    text-decoration: none;
+}
+
+
+
+ 
+    
